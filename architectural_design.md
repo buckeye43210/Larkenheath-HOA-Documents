@@ -5,7 +5,7 @@
 #### INTRODUCTION
 
 Larkenheath is a community subject to recorded covenants and restrictions administered by Meadow Point III & IV and the Larkenheath Homeowners Association.
-The Larkenheath Design Review Committee (LDRC shall periodically review this document to coincide with when MeadowPointe III & IV review their architectural design document to ensure alignment and reduce ambiguity.
+The Larkenheath Design Review Committee (LDRC shall periodically review this document to coincide with when Meadow Pointe III & IV review their architectural design document to ensure alignment and reduce ambiguity.
 The property within Larkenheath was made subject to these covenants and restrictions for the stated purpose of enhancing property values, amenities and opportunities that contribute to the personal health, welfare and safety of residents.
 All residents benefit from the planning and design that have been an important part of the development and character of the Larkenheath community.
 In an effort to carry on this tradition of excellence, the Larkenheath Homeowners Association Architectural Standards and Design Criteria, hereafter referred to as Design and Maintenance Standards ("Standards") have been developed and implemented.
@@ -39,7 +39,7 @@ COVENANTS & RESTRICTIONS -- shall mean and refer to the document containing the 
 
 DESIGN COMPATIBILITY -- The proposed alteration is to be appropriate for the surroundings, complement the existing architectural design of the neighborhood and does not detract from the overall look of the property.
 
-FOUNDING DOCUMENTS -- shall mean and refer to the Deeds, Covenants, Articles of Incorporation, and all supplementary documents regarding the Larkenheath Homeowners Association as well as the appropriate MeadowPointe III & IV documents.
+FOUNDING DOCUMENTS -- shall mean and refer to the Deeds, Covenants, Articles of Incorporation, and all supplementary documents regarding the Larkenheath Homeowners Association as well as the appropriate Meadow Pointe III & IV documents.
 
 LIVING UNIT -- shall mean and refer to any portion of a structure situated upon the properties designed and intended for use and occupancy as a residence by a single family.
 
