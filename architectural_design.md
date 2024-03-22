@@ -53,9 +53,9 @@ TIMING -- The proposed alteration must be completed within receipt of applicatio
 
 FRONT YARD -- shall mean and refer to that area located between the front line of the house, the front property line and the side property lines.
 
-REAR YARD (STANDARD CONFIGURATION) -— shall mean and refer to that area located between the rear line of the house, the rear property line and the side property lines.
+REAR YARD (STANDARD CONFIGURATION) -- shall mean and refer to that area located between the rear line of the house, the rear property line and the side property lines.
 
-SIDE YARD (STANDARD CONFIGURATION) -— shall mean and refer to that area located between the front line of the house, the rear line of the house and the side property lines.
+SIDE YARD (STANDARD CONFIGURATION) -- shall mean and refer to that area located between the front line of the house, the rear line of the house and the side property lines.
 
 #### PURPOSE AND OBJECTIVE
 
@@ -119,7 +119,7 @@ The following considerations apply:
     - Any Exterior alterations to the property must conform to the most recent Standards in effect at that time.
       Exterior alterations previously approved by the ACC are acceptable until replacement.  
 
-##### Larkenheath and MeadowPointe III & IV Architectural Control Committee Rights
+##### Larkenheath and Meadow Pointe III & IV Architectural Control Committee Rights
 
     - No changes, alterations, additions, reconstruction, attachments or color change of any nature may be made to the exterior of any lot including that portion of any lot not actually occupied by its improvements, except for the replacement of items installed by the builder. 
     
@@ -176,7 +176,9 @@ To initiate the appeal process, the applicant must take the following action:
 The request must indicate whether.
 
     1. Proper procedures were not followed during the administration and review process,
+    
     2. The applicant was not given a fair hearing, or
+    
     3. The LDRC Architectural Control Committee decision was arbitrary and/or had no rational basis.
 
 ##### Appeal Hearing
@@ -285,11 +287,11 @@ Property owners must submit an Exterior Alteration Application and obtain LDRC A
 
 ##### Downspout/Drainage Hoses
 
-AUTHORIZED ALTERATION: Drainage hoses must conform to the following:
+AUTHORIZED ALTERATION: Downspout extensions must conform to the following:
 
-    - Plastic drainage hoses longer than 2 feet must be buried.
+    - Plastic downspout extensions longer than two (2) feet must be buried.
     
-    - Consideration should be given to minimize the visual impact of all plastic drainage hoses.
+    - Consideration should be given to minimize the visual impact of all plastic downspout extensions.
 
 ##### Driveway Resurfacing/Maintenance
 
