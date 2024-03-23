@@ -5,7 +5,7 @@
 #### INTRODUCTION
 
 Larkenheath is a community subject to recorded covenants and restrictions administered by Meadow Point III & IV and the Larkenheath Homeowners Association.
-The Larkenheath Design Review Committee (LDRC shall periodically review this document to coincide with when Meadow Pointe III & IV review their architectural design document to ensure alignment and reduce ambiguity.
+The Larkenheath Design Review Committee (LDRC) shall periodically review this document to coincide with when Meadow Pointe III & IV review their architectural design document to ensure alignment and reduce ambiguity.
 The property within Larkenheath was made subject to these covenants and restrictions for the stated purpose of enhancing property values, amenities and opportunities that contribute to the personal health, welfare and safety of residents.
 All residents benefit from the planning and design that have been an important part of the development and character of the Larkenheath community.
 In an effort to carry on this tradition of excellence, the Larkenheath Homeowners Association Architectural Standards and Design Criteria, hereafter referred to as Design and Maintenance Standards ("Standards") have been developed and implemented.
