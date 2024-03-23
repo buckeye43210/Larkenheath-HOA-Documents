@@ -157,7 +157,9 @@ Owner of Property will fill out Exterior Alteration Application that contains th
     - Signature of four separated distinct/ individual lot owners who are affected by the proposed alteration or whose property is adjacent.
       In the event there are no affected or adjacent property owners, the signature of other residents may be provided.
       Signatures are acknowledgement only and not considered approval or concurrence.
+    
     - Signature of all owners of the lot for which the application is being submitted.
+    
     - Consideration will be given to the size, proportion, and scale of the proposed alteration. Detailed information must be provided to include: height, width, and length of proposed alteration, size of area where alteration will be located, and dimensions of house and lot.
       The applicant must also indicate the proportional dimensions of the proposed alteration as it relates to the original design of the structure and/or property.
 
