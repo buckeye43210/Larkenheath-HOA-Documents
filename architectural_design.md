@@ -106,7 +106,7 @@ The following considerations apply:
     - Modifications may require Pasco County review and permit.
       It is the homeowners' responsibility to obtain all required County permits and approvals.
       Pasco County authorities should be contacted prior to beginning any work in order to identify procedures that must be followed and to obtain required permits.
-      County approval does not preclude the need for compliance with these Standards and LDRC/ACC approval.
+      County approval does not preclude the need for compliance with these Standards and LDRC ACC approval.
 
     - Homeowners must ensure that any proposed exterior alterations will not adversely affect the existing drainage pattern on the property or adjacent properties.
 
